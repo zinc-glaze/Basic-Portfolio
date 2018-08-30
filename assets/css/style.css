@@ -1,0 +1,75 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+  
+body {
+    background-image: url("../images/what-the-hex.png");
+    background-color: #ffffff;
+    color: #777777;
+}
+
+hr {
+    border: 1px solid #cccccc;
+    }
+
+.pageTitle {
+    color: #4aaaa5
+}
+
+h1 {
+    font-family: Georgia, Times, 'Times New Roman', serif     
+}
+
+header {
+    margin-bottom: 20px;
+    background: #ffffff;
+    border-bottom: 2px solid #cccccc;
+    overflow: auto;
+}
+
+footer {
+    background-color: #666666;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 25px;
+    margin-top: 10px;
+    border-top: 5px solid #4aaaa5;
+}
+
+main {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    width: 960px;
+    padding: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+img.align-left {
+    float: left;
+    margin-right: 10px;
+}
+
+#headerContent {
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#logo {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    text-align: center;
+    padding: 20px;
+    float: left;        
+}
+
+nav {
+    text-align: center;
+    padding: 20px;
+    float: right;
+}
+
