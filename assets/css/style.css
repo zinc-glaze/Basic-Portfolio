@@ -64,6 +64,7 @@ main {
     margin-right: auto;
     margin-top: 35px;
     margin-bottom: 35px;
+    overflow: auto;
 }
 
 img.align-left {
@@ -107,3 +108,25 @@ textarea {
 form {
     font-size: 18px;
     }
+
+.portfolioTile {
+    margin: 10px 40px 40px 0px;
+    overflow: auto;
+    float: left;
+    position: relative;
+    }
+
+.portfolioLink {
+    background-color: #4aaaa5;
+    text-align: center;
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    color: #ffffff;
+    font-size: 22px;
+    line-height: 30px;
+    width: 100%;
+    margin-bottom: 18px;
+    padding: 10px;
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
