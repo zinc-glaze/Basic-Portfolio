@@ -7,7 +7,7 @@ We were tasked with duplicating the layout and design of these images as closely
 
 My deployed app can be viewed here: https://zinc-glaze.github.io/Basic-Portfolio/
 
-### Screenshots:
+### Screenshots
 
 ![Bio](screens/screencapture-zinc-glaze-github-io-Basic-Portfolio-index-html-2019-06-27-16_20_24.png)
 
