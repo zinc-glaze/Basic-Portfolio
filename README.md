@@ -9,10 +9,10 @@ My deployed app can be viewed here: https://zinc-glaze.github.io/Basic-Portfolio
 
 Screenshots:
 
-![Bio](screens\screencapture-zinc-glaze-github-io-Basic-Portfolio-index-html-2019-06-27-16_20_24.png)
+![Bio](screens/screencapture-zinc-glaze-github-io-Basic-Portfolio-index-html-2019-06-27-16_20_24.png)
 
-![Portfolio](screens\screencapture-zinc-glaze-github-io-Basic-Portfolio-portfolio-html-2019-06-27-16_21_04.png)
+![Portfolio](screens/screencapture-zinc-glaze-github-io-Basic-Portfolio-portfolio-html-2019-06-27-16_21_04.png)
 
-![Contact](screens\screencapture-zinc-glaze-github-io-Basic-Portfolio-contact-html-2019-06-27-16_21_19.png)
+![Contact](screens/screencapture-zinc-glaze-github-io-Basic-Portfolio-contact-html-2019-06-27-16_21_19.png)
 
 
